@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello adventurer!
 
-<!--
-**WildGoncher/WildGoncher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Alex here, I'm a beginner Frontend web developer based in Moscow, Russia.
 
-Here are some ideas to get you started:
+### Here is what I've learned so far:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [HTML](https://github.com/WildGoncher/Netology-Adaptive-Diploma)
+* [CSS](https://github.com/WildGoncher/SeaContainer)
+* [JavaScript](https://github.com/WildGoncher/js-cp-diploma-edited)
+
+### Certifications:
+
+![Netology](https://raw.githubusercontent.com/WildGoncher/WildGoncher/main/Screenshot%202023-09-15%20165920.jpg)
+
+![freeCodeCamp](https://raw.githubusercontent.com/WildGoncher/WildGoncher/main/freeCodeCamp_Responsive_Web_Design_certificate.jpg)
