@@ -1,6 +1,6 @@
 # Hello adventurer!
 
-## Alex here, I'm a beginner Frontend web developer based in Moscow, Russia.
+## Alex here, I'm a beginner Frontend web developer
 
 ### Here is what I've learned so far:
 
