@@ -2,7 +2,7 @@
 
 ## Alex here, I'm a beginner Frontend web developer
 
-### Here is what I've learned so far:
+### Here is what I'm able to use so far:
 
 * [HTML](https://github.com/WildGoncher/Netology-Adaptive-Diploma)
 * [CSS](https://github.com/WildGoncher/SeaContainer)
