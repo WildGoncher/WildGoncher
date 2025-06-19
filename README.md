@@ -1,3 +1,3 @@
 # Hello adventurer!
 
-## Alex here, I'm a beginner Frontend web developer
+## Alex here, I'm a Frontend web developer
