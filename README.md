@@ -7,16 +7,25 @@
 ### My current stack:
 
 #### OS: 
-Ubuntu (with i3wm), win 11
+- Ubuntu (with i3wm)
+- Windows
 #### TE:
-VS Code / nvim
+- NVIM
+- VS Code
 ##### Langs:
-HTML, CSS, JS  
+- HTML
+- CSS
+- JS  
 #### Libs and frames:
-Bootstrap, jQuery
+- Bootstrap
+- jQuery
 #### VC:
-Git
+- Git
 #### Misc:
-Had couple commercial encounters with Django, Adobe PS, AI, AE casual user, FFmpeg, FTPzilla, Obsidian
+- Had couple commercial encounters with Django
+- Adobe PS, AI, AE casual user
+- FFmpeg
+- FTPzilla
+- Obsidian
 #### Education in progress:
-FreeCodeCamp React course
+- FreeCodeCamp React course
